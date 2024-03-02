@@ -1,0 +1,17 @@
+For tutorials and necessary materials like plugins and includes, check the link below this text.
+------------------------------------------------------------------------------------------------
+
+These scripts are not installed by placing them in your filterscript folder. 
+Please check the tutorial link below this text.
+
+Part 1: https://youtu.be/QrzqSh8G-YY?si=PM_bp6h559N3m58o
+
+Part 2: https://youtu.be/ZE05XwKz2RE?si=sG88InVFbUlaTKka
+
+Part 3: https://youtu.be/EMYiGLqYQCA?si=HJJmVx3e3ChPwWQ8
+
+------------------------------------------------------------------------------------------------
+Created by lexa.g. Don't forget to subscribe to lexa.g's YouTube channel!
+
+Note:
+Selling my WhitelistV1 Filterscripts without my permission is strictly prohibited.
